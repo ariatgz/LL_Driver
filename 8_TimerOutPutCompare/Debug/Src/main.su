@@ -1,0 +1,13 @@
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:409:22:LL_AHB1_GRP1_EnableClock	24	static
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:1185:22:LL_APB1_GRP1_EnableClock	24	static
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:273:22:LL_GPIO_SetPinMode	48	static,ignoring_inline_asm
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:556:22:LL_GPIO_SetAFPin_0_7	48	static,ignoring_inline_asm
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1116:22:LL_TIM_EnableCounter	16	static
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1369:22:LL_TIM_SetCounter	16	static
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1411:22:LL_TIM_SetPrescaler	16	static
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1438:22:LL_TIM_SetAutoReload	16	static
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1612:22:LL_TIM_CC_EnableChannel	16	static
+C:/Users/ariat/Downloads/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1734:22:LL_TIM_OC_SetMode	32	static
+../Src/main.c:9:5:main	8	static
+../Src/main.c:26:6:tim2_oc_init	8	static
+../Src/main.c:50:6:led_init	8	static
